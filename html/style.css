@@ -1,0 +1,76 @@
+/*body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 1;
+    padding: 0;
+    background-color: #f5f5f5;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 50px auto;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .project-section {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  input, button {
+    padding: 10px;
+    font-size: 16px;
+    margin-right: 5px;
+  }
+  
+  #projects {
+    margin-top: 20px;
+  }*/
+  body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: #fff; /* Set default text color to white */
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 50px auto;
+    background: #2eaabb; /* White background for the container */
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    color: #000; /* Set the text color inside the container to black for readability */
+  }
+  
+  h1 {
+    text-align: center; /* Center the heading */
+    color: #fff; /* Set heading color to white */
+  }
+  
+  .project-section {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  input, button {
+    padding: 10px;
+    font-size: 16px;
+    margin-right: 5px;
+  }
+  
+  #projects {
+    margin-top: 20px;
+  }
+  
+  
